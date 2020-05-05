@@ -1,5 +1,7 @@
 # Bài tập phần Lập trình C môn Tin học đại cương
+
 ### Các hàm vào ra trong C
+
 * [vd1.c](https://github.com/lebavui/c_tutorial/blob/master/vd1.c)\
 Viết chương trình tính diện tích và chu vi hình tròn.
 * [vd2.c](https://github.com/lebavui/c_tutorial/blob/master/vd2.c)\
@@ -20,6 +22,7 @@ Tìm và in ra điểm lớn nhất.\
 Tìm và in ra điểm nhỏ nhất.
 
 ### Cấu trúc điều khiển rẽ nhánh
+
 * [vd7.c](https://github.com/lebavui/c_tutorial/blob/master/vd7.c)\
 Giải phương trình bậc 1.
 * [vd8.c](https://github.com/lebavui/c_tutorial/blob/master/vd8.c)\
@@ -32,6 +35,7 @@ Nếu là 3 cạnh của tam giác thì kiểm tra tính chất của tam giác:
 Nhập vào 1 năm, kiểm tra năm đó có phải là năm nhuận không.
 
 ### Cấu trúc lặp
+
 * [vd11.c](https://github.com/lebavui/c_tutorial/blob/master/vd11.c)\
 In ra các tam giác hình * với chiều cao nhập vào từ bàn phím.
 * [vd12.c](https://github.com/lebavui/c_tutorial/blob/master/vd12.c)\
@@ -54,6 +58,7 @@ Tính xấp xỉ số PI.\
 Với sai số epsilon nhập từ bàn phím.
 
 ### Mảng
+
 * [vd18.c](https://github.com/lebavui/c_tutorial/blob/master/vd18.c)\
 Nhập mảng có N số nguyên.\
 Tìm phần tử (chỉ số và giá trị) có giá trị tuyệt đối lớn nhất.
@@ -77,6 +82,7 @@ Nhập mảng có N phần tử (giả thiết đã được sắp xếp theo th
 Lập trình nhập và chèn số X vào mảng sao cho mảng vẫn giữ nguyên thứ tự sắp xếp.
 
 ### Xâu ký tự
+
 * [vd25.c](https://github.com/lebavui/c_tutorial/blob/master/vd25.c)\
 Nhập xâu ký tự từ bàn phím.\
 Đếm số ký tự chữ hoa, chữ thường và chữ số có trong xâu.
